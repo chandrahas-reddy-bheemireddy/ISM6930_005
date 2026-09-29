@@ -6,7 +6,7 @@ This folder contains the ISM6930 Week 5 group activity deliverables. It is an in
 
 - `index.html` - interactive 20-question maturity assessment and radar chart
 - `Submission_Content.md` - editable rationale, interpretation guide, and stage definitions
-- `BayCare_Digital_Health_Maturity_Submission.pdf` - final written submission
+- `Team5_Week5_BayCare_Digital_Health_Maturity_Assessment.pdf` - final written submission
 
 ## Team
 
